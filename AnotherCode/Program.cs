@@ -1,8 +1,14 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+
+using AnotherCode;
+
+//Book book1 = new Book();
+Console.WriteLine(BestTutorial.MyOneFunction("Theo"));
+
+Console.ReadLine();
 
 
-
+/*
 try {
     Console.Write("Enter First Number : ");
     int num1 = Convert.ToInt32(Console.ReadLine());
@@ -16,3 +22,5 @@ try {
 catch(Exception e) {
     Console.WriteLine("You have Error in Division " +e.Message);
 }
+
+*/
