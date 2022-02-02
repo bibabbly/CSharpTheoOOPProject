@@ -1,0 +1,15 @@
+C:\Users\bizit\source\repos\AnotherCode\AnotherCode\bin\Debug\net6.0\AnotherCode.exe
+C:\Users\bizit\source\repos\AnotherCode\AnotherCode\bin\Debug\net6.0\AnotherCode.deps.json
+C:\Users\bizit\source\repos\AnotherCode\AnotherCode\bin\Debug\net6.0\AnotherCode.runtimeconfig.json
+C:\Users\bizit\source\repos\AnotherCode\AnotherCode\bin\Debug\net6.0\AnotherCode.dll
+C:\Users\bizit\source\repos\AnotherCode\AnotherCode\bin\Debug\net6.0\ref\AnotherCode.dll
+C:\Users\bizit\source\repos\AnotherCode\AnotherCode\bin\Debug\net6.0\AnotherCode.pdb
+C:\Users\bizit\source\repos\AnotherCode\AnotherCode\obj\Debug\net6.0\AnotherCode.csproj.AssemblyReference.cache
+C:\Users\bizit\source\repos\AnotherCode\AnotherCode\obj\Debug\net6.0\AnotherCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bizit\source\repos\AnotherCode\AnotherCode\obj\Debug\net6.0\AnotherCode.AssemblyInfoInputs.cache
+C:\Users\bizit\source\repos\AnotherCode\AnotherCode\obj\Debug\net6.0\AnotherCode.AssemblyInfo.cs
+C:\Users\bizit\source\repos\AnotherCode\AnotherCode\obj\Debug\net6.0\AnotherCode.csproj.CoreCompileInputs.cache
+C:\Users\bizit\source\repos\AnotherCode\AnotherCode\obj\Debug\net6.0\AnotherCode.dll
+C:\Users\bizit\source\repos\AnotherCode\AnotherCode\obj\Debug\net6.0\ref\AnotherCode.dll
+C:\Users\bizit\source\repos\AnotherCode\AnotherCode\obj\Debug\net6.0\AnotherCode.pdb
+C:\Users\bizit\source\repos\AnotherCode\AnotherCode\obj\Debug\net6.0\AnotherCode.genruntimeconfig.cache
